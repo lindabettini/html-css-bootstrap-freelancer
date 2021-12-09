@@ -1,4 +1,9 @@
 header {
-  height: 80px;
+  height: 60px;
   background-color: rgb(44, 62, 80);
+}
+
+#jumbotron {
+  height: 200px;
+  background-color: rgb(26, 188, 156);
 }
