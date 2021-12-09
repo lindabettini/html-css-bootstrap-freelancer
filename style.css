@@ -7,3 +7,8 @@ header {
   height: 200px;
   background-color: rgb(26, 188, 156);
 }
+
+.card {
+  background-color: violet;
+  height: 200px;
+}
